@@ -1,0 +1,55 @@
+es:
+  empresa:
+    name: "Compañía"
+    url: "/es/compañía"
+  servicios:
+    name: "Servicios"
+    url: "/es/servicios"
+  noticias:
+    name: "Noticias"
+    url: "/es/noticias"
+  contacto:
+    name: "Contacto"
+    url: "/es/contacto"
+
+en:
+  empresa:
+    name: "Company"
+    url: "/en/company"
+  servicios:
+    name: "Services"
+    url: "/en/services"
+  noticias:
+    name: "News"
+    url: "/en/news"
+  contacto:
+    name: "Contact"
+    url: "/en/contact"
+
+fr:
+  empresa:
+    name: "Enterprise"
+    url: "/fr/enterprise"
+  servicios:
+    name: "Services"
+    url: "/fr/services"
+  noticias:
+    name: "Informations"
+    url: "/fr/informations"
+  contacto:
+    name: "Contact"
+    url: "/fr/contact"
+
+de:
+  empresa:
+    name: "Kompanie"
+    url: "/de/kompanie"
+  servicios:
+    name: "Dienstleistungen"
+    url: "/de/dienstleistungen"
+  noticias:
+    name: "Neuigkeiten"
+    url: "/de/neuigkeiten"
+  contacto:
+    name: "Kontact"
+    url: "/de/kontact"
