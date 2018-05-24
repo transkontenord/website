@@ -24,7 +24,7 @@ banner: /assets/uploads/images/originales/banner-contacto.jpg
 <input type="text" id="entradaVerificacion" name="entradaVerificacion" />
 
 
-<input type="hidden" name="redirigir" class="" value="http://www.txorua.com/gracias.html" />
+<input type="hidden" name="redirigir" class="" value="http://tkn.txorua.com/es/gracias.html" />
 <input type="hidden" name="recipe" class="" value="txorua@txorua.com" />
 <input type="hidden" name="asunto" class="" value="Envío formulario desde txorua.com" />
 <input type="hidden" name="required" class="" value="nombre;email" />
