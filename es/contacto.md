@@ -15,7 +15,7 @@ banner: /assets/uploads/images/originales/banner-contacto.jpg
 <label for="email">* Cuenta de correo</label>
 <input type="email" name="email" class="todo"  />
 
-<label for="mensaje">Mensaje</label>
+<label for="mensaje">* Mensaje</label>
 <textarea name="mensaje" class="todo" rows="8" cols="50"></textarea>
 
 <label for="entradaVerificacion">Captcha</label>
@@ -27,7 +27,7 @@ banner: /assets/uploads/images/originales/banner-contacto.jpg
 <input type="hidden" name="redirigir" class="" value="http://tkn.txorua.com/es/gracias.html" />
 <input type="hidden" name="recipe" class="" value="txorua@txorua.com" />
 <input type="hidden" name="asunto" class="" value="Envío formulario desde txorua.com" />
-<input type="hidden" name="required" class="" value="nombre;email" />
+<input type="hidden" name="required" class="" value="nombre;email;mensaje" />
 <input type="hidden" name="dominio" class="" value="txorua.com" />
 <input type="hidden" name="idioma" class="" value="es" />
 <input type="submit" name="enviar" class="" value="Enviar" />
