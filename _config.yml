@@ -47,6 +47,9 @@ remote_theme: transkontenord/twd-jt-tkn
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include:
+  _redirects
+
 collections_dir: content
 collections:
   servicios:
